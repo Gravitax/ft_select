@@ -22,8 +22,6 @@ D_PRINT	=	./print
 D_STR	=	./str
 D_TAB	=	./tab
 
-D_OBJ	=	./.obj
-
 #SRC LIST
 S_LIST	=	ft_lstaddback.c\
 			ft_lstaddelem.c\
